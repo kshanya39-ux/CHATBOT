@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chatbot",
+  "description": "A clean and responsive chatbot powered by Google's Gemini AI.",
+  "requestFramePermissions": []
+}
